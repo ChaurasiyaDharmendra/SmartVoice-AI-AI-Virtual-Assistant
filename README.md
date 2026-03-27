@@ -38,9 +38,6 @@ Build your own AI Virtual Assistant using the MERN Stack (MongoDB, Express, Reac
 - JWT (JSON Web Token)
 - bcryptjs
 
-### Media:
-- Cloudinary
-- Multer
 
 ---
 
